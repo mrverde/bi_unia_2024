@@ -7,7 +7,7 @@ output.*
 **/.DS_Store
 
 # Archivos completos
-introduccion_a_las_apis_complete.ipynb
+#introduccion_a_las_apis_complete.ipynb
 curso_pandas_complete.ipynb
 
 # Prueba resuelta
